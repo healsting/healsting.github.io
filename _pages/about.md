@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "黄肾虚"
 author_profile: true
 redirect_from: 
   - /about/
